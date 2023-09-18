@@ -15,7 +15,7 @@
 <li>Node-wav- Fluxos de leitor e gravador para arquivos de áudio Microsoft WAVE</li>
 <li>Ffmpeg- solução multiplataforma para gravar, converter e transmitir áudio e vídeo;</li>
 <li>@xenova/transformers- Aprendizado de máquina para a web.</li>
-<h4>Tecnologias usadas: </h4>
+<h4>Tecnologias usadas:</h4>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>

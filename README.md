@@ -1,6 +1,6 @@
 # Shorts-Summary
 
-<h2>Descrição</h2>
+<h2>:computer:Descrição:</h2>
 
 <p>O Shorts Summary foi desenvolvido durante a edição NLW IA da Rockeseat e é uma aplicação web que cria resumo de vídeos curtos (shorts) do Youtube utilizando a Inteligência Artificial para transcrever o conteúdo do vídeo e realizar o resumo.</p>
 

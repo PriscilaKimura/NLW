@@ -4,7 +4,6 @@
 
 <p>O Shorts Summary foi desenvolvido durante a edição NLW IA da Rockeseat e é uma aplicação web que cria resumo de vídeos curtos (shorts) do Youtube utilizando a Inteligência Artificial para transcrever o conteúdo do vídeo e realizar o resumo.</p>
 
-<h3>Tecnologias</h3>
 <li>Vite- estrutura de aplicativo da web de código aberto;</li>
 <li>Phosphor icons- ícones grátis;</li>
 <li>Express- estrutura web minimalista para Node.js;</li>
